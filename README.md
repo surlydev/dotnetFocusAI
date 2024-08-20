@@ -60,7 +60,7 @@ James Codella - https://twitch.tv/videos/2229277533?t=4h37m58s
 
 Jeff, segue - https://twitch.tv/videos/2229277533?t=5h09m11s
 
-Timothy Spann - https://twitch.tv/videos/2229277533?t=5h11lm07s
+Timothy Spann - https://twitch.tv/videos/2229277533?t=5h11m07s
 
 
 https://twitch.tv/videos/2229277533?t=3h00m00s
