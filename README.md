@@ -29,7 +29,9 @@ Jeff Fritz (csharpfritz) opening the show - https://twitch.tv/videos/2229277533?
 
 Don't forget to thank the sponsors - https://twitch.tv/videos/2229277533?t=14m34s
 
-- https://twitch.tv/videos/2229277533?t=00m00s
+Maria Naggaga and Scott Hanselman do the keynote - https://twitch.tv/videos/2229277533?t=15m35s
+
+
 - https://twitch.tv/videos/2229277533?t=00m00s
 - https://twitch.tv/videos/2229277533?t=00m00s
 - https://twitch.tv/videos/2229277533?t=00m00s
