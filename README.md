@@ -37,7 +37,6 @@ Maria Naggaga & Scott Hanselman do the keynote - https://twitch.tv/videos/222927
 Stephen Toub - https://twitch.tv/videos/2229277533?t=50m34s
 
 Matthew Bolanos and Steve Sanderson - https://twitch.tv/videos/2229277533?t=1h18m25s
-- https://twitch.tv/videos/2229277533?t=00m00s
 
 Jeff, segue - https://twitch.tv/videos/2229277533?t=1h50m05s
 
@@ -51,6 +50,11 @@ Roger Pincombe & Matt Soucoup - https://twitch.tv/videos/2229277533?t=3h01m10s
 
 Kosta Petan & Xiaoyun Zhang - https://twitch.tv/videos/2229277533?t=3h42m20s
 
+Jeff, segue & comfort break - https://twitch.tv/videos/2229277533?t=4h06m35s
+
+Jeff, segue - https://twitch.tv/videos/2229277533?t=4h10m42s
+
+David Mauri - https://twitch.tv/videos/2229277533?t=4h11m20s
 
 
 - https://twitch.tv/videos/2229277533?t=3h00m00s
