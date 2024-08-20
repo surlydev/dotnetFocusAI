@@ -17,6 +17,8 @@ https://aka.ms/dotnetFocusAI/Evaluation
 ## Links
 The official collection of all the links - https://aka.ms/dotnetFocusAI/Collection
 
+## AI Challenge & Live Streams
+
 ---
 
 start - https://twitch.tv/videos/2229277533?t=00m00s
@@ -33,12 +35,14 @@ Maria Naggaga and Scott Hanselman do the keynote - https://twitch.tv/videos/2229
 
 Stephen Toub - https://twitch.tv/videos/2229277533?t=50m34s
 
-Matthew Bolanos and Steve Sanderson - https://twitch.tv/videos/2229277533?t=1h18m35s
+Matthew Bolanos and Steve Sanderson - https://twitch.tv/videos/2229277533?t=1h18m25s
 - https://twitch.tv/videos/2229277533?t=00m00s
 
-Daniel Roth
-- https://twitch.tv/videos/2229277533?t=1h00m00s
-- https://twitch.tv/videos/2229277533?t=1h00m00s
+Jeff, segue - https://twitch.tv/videos/2229277533?t=1h50m05s
+
+Daniel Roth - https://twitch.tv/videos/2229277533?t=1h53m19s
+
+
 - https://twitch.tv/videos/2229277533?t=1h00m00s
 - https://twitch.tv/videos/2229277533?t=1h00m00s
 - https://twitch.tv/videos/2229277533?t=1h00m00s
