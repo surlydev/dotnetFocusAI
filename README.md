@@ -31,12 +31,16 @@ Don't forget to thank the sponsors - https://twitch.tv/videos/2229277533?t=14m34
 
 Maria Naggaga and Scott Hanselman do the keynote - https://twitch.tv/videos/2229277533?t=15m35s
 
+Stephen Toub - https://twitch.tv/videos/2229277533?t=50m34s
 
-- https://twitch.tv/videos/2229277533?t=00m00s
-- https://twitch.tv/videos/2229277533?t=00m00s
-- https://twitch.tv/videos/2229277533?t=00m00s
-- https://twitch.tv/videos/2229277533?t=00m00s
-- https://twitch.tv/videos/2229277533?t=00m00s
+Matthew Bolanos and Steve Sanderson - https://twitch.tv/videos/2229277533?t=1h18m35s
 - https://twitch.tv/videos/2229277533?t=00m00s
 
-Stephen Toub - 
+Daniel Roth
+- https://twitch.tv/videos/2229277533?t=1h00m00s
+- https://twitch.tv/videos/2229277533?t=1h00m00s
+- https://twitch.tv/videos/2229277533?t=1h00m00s
+- https://twitch.tv/videos/2229277533?t=1h00m00s
+- https://twitch.tv/videos/2229277533?t=1h00m00s
+- https://twitch.tv/videos/2229277533?t=1h00m00s
+
