@@ -18,6 +18,7 @@ https://aka.ms/dotnetFocusAI/Evaluation
 The official collection of all the links - https://aka.ms/dotnetFocusAI/Collection
 
 ## AI Challenge & Live Streams
+https://aka.ms/dotnetFocusAI/CredentialChallengeLive
 
 ---
 
@@ -42,8 +43,9 @@ Jeff, segue - https://twitch.tv/videos/2229277533?t=1h50m05s
 
 Daniel Roth - https://twitch.tv/videos/2229277533?t=1h53m19s
 
+Bruno Capuano - https://twitch.tv/videos/2229277533?t=2h30m05s
 
-- https://twitch.tv/videos/2229277533?t=1h00m00s
+
 - https://twitch.tv/videos/2229277533?t=1h00m00s
 - https://twitch.tv/videos/2229277533?t=1h00m00s
 - https://twitch.tv/videos/2229277533?t=1h00m00s
