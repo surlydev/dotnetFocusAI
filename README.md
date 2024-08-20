@@ -45,8 +45,12 @@ Daniel Roth - https://twitch.tv/videos/2229277533?t=1h53m19s
 
 Bruno Capuano - https://twitch.tv/videos/2229277533?t=2h30m05s
 
+Jeff, segue - https://twitch.tv/videos/2229277533?t=2h58m35s
 
-- https://twitch.tv/videos/2229277533?t=1h00m00s
-- https://twitch.tv/videos/2229277533?t=1h00m00s
-- https://twitch.tv/videos/2229277533?t=1h00m00s
+Roger Pincombe & Matt Soucoup - https://twitch.tv/videos/2229277533?t=3h01m10s
+
+
+
+- https://twitch.tv/videos/2229277533?t=3h00m00s
+- https://twitch.tv/videos/2229277533?t=3h00m00s
 
