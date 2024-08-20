@@ -9,13 +9,13 @@ the VODs will be available after the event on the .NET YouTube channel. The play
 ___
 
 ## Learn more
-aka.ms/dotnetFocusAI/Learn
+https://aka.ms/dotnetFocusAI/Learn
 
 ## Event Survey
-aka.ms/dotnetFocusAI/Evaluation
+https://aka.ms/dotnetFocusAI/Evaluation
 
 ## Links
-explorer   The official collection of all the links - aka.ms/dotnetFocusAI/Collection
+The official collection of all the links - aka.ms/dotnetFocusAI/Collection
 
 ---
 
@@ -27,10 +27,13 @@ Jeff Fritz (csharpfritz) opening the show - https://twitch.tv/videos/2229277533?
  
  Save the date - .Net Conf 2024 - https://twitch.tv/videos/2229277533?t=13m20s
 
+Don't forget to thank the sponsors - https://twitch.tv/videos/2229277533?t=14m34s
 
-
-
-
+- https://twitch.tv/videos/2229277533?t=00m00s
+- https://twitch.tv/videos/2229277533?t=00m00s
+- https://twitch.tv/videos/2229277533?t=00m00s
+- https://twitch.tv/videos/2229277533?t=00m00s
+- https://twitch.tv/videos/2229277533?t=00m00s
 - https://twitch.tv/videos/2229277533?t=00m00s
 - https://twitch.tv/videos/2229277533?t=00m00s
 
