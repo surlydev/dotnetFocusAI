@@ -56,7 +56,9 @@ Jeff, segue - https://twitch.tv/videos/2229277533?t=4h10m42s
 
 David Mauri - https://twitch.tv/videos/2229277533?t=4h11m20s
 
+James Codella - https://twitch.tv/videos/2229277533?t=4h37m58s
 
-- https://twitch.tv/videos/2229277533?t=3h00m00s
-- https://twitch.tv/videos/2229277533?t=3h00m00s
+
+https://twitch.tv/videos/2229277533?t=3h00m00s
+https://twitch.tv/videos/2229277533?t=3h00m00s
 
