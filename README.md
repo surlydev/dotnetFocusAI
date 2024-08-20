@@ -32,7 +32,7 @@ Jeff Fritz (csharpfritz) opening the show - https://twitch.tv/videos/2229277533?
 
 Don't forget to thank the sponsors - https://twitch.tv/videos/2229277533?t=14m34s
 
-Maria Naggaga and Scott Hanselman do the keynote - https://twitch.tv/videos/2229277533?t=15m35s
+Maria Naggaga & Scott Hanselman do the keynote - https://twitch.tv/videos/2229277533?t=15m35s
 
 Stephen Toub - https://twitch.tv/videos/2229277533?t=50m34s
 
@@ -48,6 +48,8 @@ Bruno Capuano - https://twitch.tv/videos/2229277533?t=2h30m05s
 Jeff, segue - https://twitch.tv/videos/2229277533?t=2h58m35s
 
 Roger Pincombe & Matt Soucoup - https://twitch.tv/videos/2229277533?t=3h01m10s
+
+Kosta Petan & Xiaoyun Zhang - https://twitch.tv/videos/2229277533?t=3h42m20s
 
 
 
