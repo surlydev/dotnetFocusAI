@@ -15,7 +15,7 @@ https://aka.ms/dotnetFocusAI/Learn
 https://aka.ms/dotnetFocusAI/Evaluation
 
 ## Links
-The official collection of all the links - aka.ms/dotnetFocusAI/Collection
+The official collection of all the links - https://aka.ms/dotnetFocusAI/Collection
 
 ---
 
