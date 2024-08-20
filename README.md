@@ -64,8 +64,11 @@ Timothy Spann - https://twitch.tv/videos/2229277533?t=5h11m07s
 
 Vin Kamat - https://twitch.tv/videos/2229277533?t=5h40m40s
 
+Jeff, segue - https://twitch.tv/videos/2229277533?t=6h08m44s
 
-https://twitch.tv/videos/2229277533?t=3h00m00s
-https://twitch.tv/videos/2229277533?t=3h00m00s
+Gaurav Seth - https://twitch.tv/videos/2229277533?t=6h10m58s
+
+
+
 https://twitch.tv/videos/2229277533?t=3h00m00s
 
