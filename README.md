@@ -6,6 +6,12 @@ Twitch link : https://twitch.tv/VisualStudio
 
 the VODs will be available after the event on the .NET YouTube channel. The playlist will be at https://aka.ms/dotnetFocusAI/OnDemand
 
+
+---
+
+## The YouTube playlist is up already ...
+https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX7Yg1cixIj6hXjz9C5MHJR
+
 ___
 
 ## Learn more
